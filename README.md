@@ -1,8 +1,8 @@
-# Neuroverkkoplasma
+# Neuroverkkoplasma (Skrolli 2021.1)
 
 ## Riippuvuudet
 
-todo.
+Python3 ja kirjastot tensorflow, numpy ja PIL. Komentorivityökalu ffmpeg.
 
 ## Ruutujen luominen
 
